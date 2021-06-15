@@ -1,0 +1,19 @@
+{
+  "name": "warna favorite pwa",
+  "short_name": "warna favorite",
+  "short_url": "index.html",
+  "display": "standalone",
+  "description": "anda gila ? silahkan masuk",
+  "icons": [
+    {
+      "src": "/images/128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/images/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
